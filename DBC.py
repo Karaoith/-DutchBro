@@ -46,9 +46,9 @@ print('''\033[1;32;40m \n
  |_      _| | |_| | |_| | || (__| | | | |_) | | | (_) | 
    |_||_|   |____/ \__,_|\__\___|_| |_|____/|_|  \___/  
                   V.1
-from mrFD
+Dev By : iiZa3iiM
 ''')
-print("\033[1;40;31m http://facebook.com/ninja.hackerz.kurdish/\n")
+print("\033[1;40;31m discord : z3_o/\n")
 
 os.system("service tor start")
 
