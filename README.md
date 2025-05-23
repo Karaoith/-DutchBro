@@ -2,7 +2,7 @@
 
 1: git clone https://github.com/Karaoith/-DutchBro.git
 
-2 : cd Auto_Tor_IP_changer
+2 : cd -DutchBro
 
 3 : python3 install.py
 
